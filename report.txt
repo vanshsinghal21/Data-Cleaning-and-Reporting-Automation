@@ -1,0 +1,28 @@
+
+========================================
+DATA CLEANING & REPORTING AUTOMATION
+========================================
+
+Original Rows: 2823
+Rows After Cleaning: 2823
+
+Duplicates Removed: 0
+
+Missing Values Before Cleaning: 5157
+Missing Values After Cleaning: 0
+
+------------- SALES INSIGHTS -------------
+
+Total Sales: 10032628.85
+
+Average Sales: 3553.89
+
+Highest Sale: 14082.80
+
+Top Performing Country: USA
+
+Best Selling Product Line: Classic Cars
+
+-------------------------------------------
+
+Report Generated Successfully
